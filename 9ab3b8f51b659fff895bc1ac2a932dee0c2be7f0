@@ -1,0 +1,25 @@
+great_tables/_export.py
+  cd2c89a822b6909a 451-454
+tests/test_export.py
+  cd2c89a822b6909a 5,184-217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "9ab3b8f51b659fff895bc1ac2a932dee0c2be7f0",
+  "prompts": {
+    "cd2c89a822b6909a": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "d1ff67cc-debf-41a5-b901-5d4cecac8993",
+        "model": "gemini-3-flash-preview"
+      },
+      "human_author": "Maciej Rapacz <mmrapacz@origin.lan>",
+      "messages": [],
+      "total_additions": 116,
+      "total_deletions": 26,
+      "accepted_lines": 100,
+      "overriden_lines": 0
+    }
+  }
+}
